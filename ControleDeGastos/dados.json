@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "COMPRA",
+    "produto": "Computador",
+    "quantidade": 2,
+    "valorUnitario": 2760.0
+  },
+  {
+    "tipo": "VENDA",
+    "produto": "Mesa",
+    "quantidade": 3,
+    "valorUnitario": 500.0
+  }
+]
