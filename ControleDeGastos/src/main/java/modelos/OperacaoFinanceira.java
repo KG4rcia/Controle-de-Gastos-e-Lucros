@@ -11,8 +11,6 @@ public abstract class OperacaoFinanceira implements Transacao {
         this.valorUnitario = valorUnitario;
     }
 
-
-
     @Override
     public double calcularTotal() {
         return quantidade * valorUnitario;

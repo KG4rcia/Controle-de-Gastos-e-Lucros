@@ -1,14 +1,14 @@
 [
   {
     "tipo": "COMPRA",
-    "produto": "Computador",
-    "quantidade": 2,
-    "valorUnitario": 2760.0
+    "produto": "Televisão",
+    "quantidade": 30,
+    "valorUnitario": 1500.0
   },
   {
     "tipo": "VENDA",
-    "produto": "Mesa",
-    "quantidade": 3,
-    "valorUnitario": 500.0
+    "produto": "Sofá",
+    "quantidade": 20,
+    "valorUnitario": 1700.0
   }
 ]
